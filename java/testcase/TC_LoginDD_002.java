@@ -50,3 +50,5 @@ for(int r=0;r<=rows;r++)
 	
 	
 }
+
+1. open the file
